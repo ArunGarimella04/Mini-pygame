@@ -25,7 +25,7 @@ A simple 2D runner game built using Python and the PyGame library. The game feat
 
 1. **Start the Game**:
    - Run the script using Python.
-   - On the login screen, press `Enter` to start the game.
+   - On the main screen, press `Enter` to start the game.
 
 2. **Controls**:
    - `Space`: Jump.
